@@ -1,0 +1,8 @@
+This github repository consists of 2 files. A python file that contain the processing code and and xml file that does image detection when camera on. 
+Steps to follow:
+1. create two folders named database and trained_model
+2. database will keep your detected image saved for identification. change the location of your database folder in the code.
+3. trained_model will be used to store trained dataset of image identification. so, change its location in the code as well.
+
+Note: 1. It's a 40% original file and 60% taken from somewhere else(I don't remember)
+      2. It's only functional in local server
